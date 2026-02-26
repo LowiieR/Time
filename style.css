@@ -47,6 +47,44 @@ nav{
 h3{
     color: #f8bc3b;
 }
+h5{
+    color: aliceblue;
+}
+.equipe {
+    text-align: center;
+    border-radius: 10px;
+
+    background-color: rgba(255, 255, 255, 0.062);
+    margin: 40px;
+}
+
+#titulo_equipe {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    color: #f8bc3b;
+}
+
+#mosqueteiro {
+    right: 0px;
+    bottom: -140px;
+    position: fixed;
+}
+
+#membros {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.membro {
+    text-align: center;
+
+}
+
+#icon_membro {
+    width: 52px;
+}
 footer{
     color: aliceblue;
     text-align: center;
