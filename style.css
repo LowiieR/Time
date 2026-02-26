@@ -47,3 +47,13 @@ nav{
 h3{
     color: #f8bc3b;
 }
+footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: #7734bf;
+    padding: 10px;
+     margin-top: 40px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
