@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    background-color: rgb(223, 223, 223)
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: rgb(32, 32, 32);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    color: white
+}
+
+#icon {
+    width: 65px;
+}
+
+#noticias {
+    display: flex;
+    justify-content: space-around;
+}
+
+.noticia{
+    margin: 10px;
+    text-align: center;
+    background-color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    border: 5px solid black;
+}
+.img_noticia {
+    width: 400px;
+}
